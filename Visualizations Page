@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+  <title>Visualizations — EduTrends</title>
+  <style>body{background:#f7f9fb}</style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html">EduTrends</a>
+  </nav>
+  <div class="container mt-4">
+    <h1>Visualizations</h1>
+    <p>Placeholder for charts and interactive graphics.</p>
+    <p><a href="index.html">Back to Home</a></p>
+  </div>
+</body>
+</html>
